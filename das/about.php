@@ -15,7 +15,7 @@
 			<div class="col-md-6">
 				<article>
 					<h3 style="color:#0616BC;">We are Beside you</h3>
-					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt et dolores neque eaque. Labore, dicta similique ipsam odit saepe obcaecati suscipit ducimus, commodi dolores animi sed beatae, quia nulla facilis.lorem 
+					<p class="text-justify"> dicta similique ipsam odit saepe obcaecati suscipit ducimus, commodi dolores animi sed beatae, quia nulla facilis.lorem 
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi.</p>
 				</article>
