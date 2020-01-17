@@ -1,0 +1,22 @@
+* start xamp
+* import db script to your database
+* paste the system on your c:/xamp/htdocs folders
+
+
+User details
+
+Doctor:email= lindo@gmail.com and password: abcde
+Patient:email= user@gmail.com and password: abcde
+
+
+Functions
+	Doctor
+		- Can see all the appointments made to the system 
+		- can treate patients	
+		- can activate or deactivate patients accounts
+		- can update his profile
+	Patient
+		- can create account
+		- can make an appointment
+		- can see his/her appointment
+		- can update their profile
